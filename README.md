@@ -1,9 +1,16 @@
 # AI-janken (AI じゃんけん)
-AI that recognizes hand shapes via webcam and plays rock-paper-scissors.
+AI recognizes hand shapes via webcam and plays rock-paper-scissors.
 
 AI がカメラ映像から手の形を認識し、じゃんけんをしてくれるプログラム
 
-# Credits (クレジット)
+# How to run (実行方法)
+Click the button below to open Google Colaboratory and run the code.
+
+下のボタンをクリックして Google Colaboratory を開き、コードを実行します。
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/r-40021/janken-ai/blob/main/janken.ipynb)
+
+# Credit (クレジット)
 - [Irasutoya (いらすとや)](https://www.irasutoya.com/)
 
 # References (参考サイト)
